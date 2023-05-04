@@ -8,4 +8,3 @@ django-smart-extends==0.7.0
 dnspython==2.3.0
 gitdb==4.0.10
 GitPython==3.1.31
-pysqlite3==3.39.5
