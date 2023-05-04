@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-n3hn#(z8^7b1lu8i4!j$&3leadddpt7z_6@+)lfk@2wp&^)^0h
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ds-chat-room.vercel.app']
 
 
 # Application definition
